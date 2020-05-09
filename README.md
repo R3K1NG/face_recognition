@@ -350,12 +350,12 @@ All the examples are available [here](https://github.com/R3K1NG/face_recognition
 * [Recognize faces in live video using your webcam - Faster Version (Requires OpenCV to be installed)](https://github.com/R3K1NG/face_recognition/blob/master/examples/facerec_from_webcam_faster.py)
 * [Recognize faces in a video file and write out new video file (Requires OpenCV to be installed)](https://github.com/R3K1NG/face_recognition/blob/master/examples/facerec_from_video_file.py)
 * [Recognize faces on a Raspberry Pi w/ camera](https://github.com/R3K1NG/face_recognition/blob/master/examples/facerec_on_raspberry_pi.py)
-* [Run a web service to recognize faces via HTTP (Requires Flask to be installed)](https://github.com/ageitgey/face_recognition/blob/master/examples/web_service_example.py)
+* [Run a web service to recognize faces via HTTP (Requires Flask to be installed)](https://github.com/R3K1NG/face_recognition/blob/master/examples/web_service_example.py)
 * [Recognize faces with a K-nearest neighbors classifier](https://github.com/R3K1NG/face_recognition/blob/master/examples/face_recognition_knn.py)
 * [Train multiple images per person then recognize faces using a SVM](https://github.com/R3K1NG/face_recognition/blob/master/examples/face_recognition_svm.py)
 
 ## Creating a Standalone Executable
-If you want to create a standalone executable that can run without the need to install `python` or `face_recognition`, you can use [PyInstaller](https://github.com/pyinstaller/pyinstaller). However, it requires some custom configuration to work with this library. See [this issue](https://github.com/ageitgey/face_recognition/issues/357) for how to do it.
+If you want to create a standalone executable that can run without the need to install `python` or `face_recognition`, you can use [PyInstaller](https://github.com/pyinstaller/pyinstaller). However, it requires some custom configuration to work with this library. See [this issue](https://github.com/R3K1NG/face_recognition/issues/357) for how to do it.
 
 ## Articles and Guides that cover `face_recognition`
 
